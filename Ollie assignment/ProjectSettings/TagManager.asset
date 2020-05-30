@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animal
+  - Tree
+  - Boulder
+  - BurningTree
+  - EnvironmentObject
+  - GroundTile
+  - OuterBounds
+  - EndScreenCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tiles
+  - Objects
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3959670677
+    locked: 0
+  - name: Objects
+    uniqueID: 644852691
+    locked: 0
+  - name: UI
+    uniqueID: 1137527771
+    locked: 0
